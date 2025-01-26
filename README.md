@@ -1,8 +1,7 @@
 # Whatsapp Chat Data Development 
 
 ## Introduction
-* This repository contains the codes used to convert html Whatsapp Chat data into xlsx.
-* This was done for a research project led by Tel Aviv University.
+This repository contains the codes used to convert html Whatsapp Chat data into xlsx, as part of a research project led by Tel Aviv University.
 
 ## Overview of the project
 ### `aws_translate_multiprocess.py`:
